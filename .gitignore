@@ -1,0 +1,18 @@
+**/node_modules/
+**/.env
+.vscode
+node_modules/
+# 자동 줄 끝 변환 비활성화
+* text=auto
+
+# Unix 스타일 줄 끝 변환 (LF)
+*.sh text eol=lf
+
+# Windows 스타일 줄 끝 변환 (CRLF)
+*.bat text eol=crlf
+
+# JSON 파일은 LF로 유지
+*.json text eol=lf
+
+# node_modules 디렉토리 무시
+node_modules/* -text
