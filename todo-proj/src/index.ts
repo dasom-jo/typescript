@@ -42,3 +42,9 @@ import TodoConsole from "./view/TodoConsole";
 //todoconsole이후
 
 const todoConsole = new TodoConsole();
+todoConsole.promptUser();
+
+//TypeScript 파일을 터미널에서 실행할 때 JavaScript 파일이 생성되는 이유는
+// TypeScript는 고수준의 정적 타입 언어로, JavaScript 런타임 환경에서 실행되기 위해
+// JavaScript 코드로 변환되어야 하기 때문입니다.
+// 이 과정에서 TypeScript 컴파일러(tsc)가 TypeScript 코드를 JavaScript 코드로 변환합니다.

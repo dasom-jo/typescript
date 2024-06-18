@@ -44,6 +44,7 @@ class TodoCollenction {
     getItemCounts(): ItemCounts {
         return{
             total : this.itemMap.size,
+            //size:는 map에서 저장된 엔트리(키-값)의 개수
             incomplete: this.getTodoItem(false).length
         }
     }
