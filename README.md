@@ -7,3 +7,5 @@
 [유튜버 나무소리](https://www.youtube.com/watch?v=0UMmCbcZid0&list=PLOSNUO27qFbsI9bAIVitBcq-klZae5GMi,"유튜브강의")
 ***
 *_2024.06.17 Annotations study_
+*_2024.06.18 generics,type alias study_
+*_2024.06.19 uniontype,type guard,sorting study_
