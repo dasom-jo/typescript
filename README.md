@@ -16,4 +16,3 @@
 
 *_2024.06.19 uniontype,type guard,sorting study_
 
-*2024.06.24 키오스크 토이프로젝트
