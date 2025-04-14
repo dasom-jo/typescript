@@ -6,6 +6,7 @@
         "strict": true,
         "moduleDetection":"force",
         "allowJs": true,
+        //"noImplicitAny": false,
     },
     "ts-node": {
         "esm": true
